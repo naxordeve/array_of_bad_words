@@ -1,8 +1,7 @@
 # array_of_bad_words
 JSON format
 
-🔞
-This repository contains a comprehensive list of over **5,000 offensive, inappropriate, or profane words** in JSON format. It is designed for developers who need to implement text moderation, filtering, or censorship in applications such as chat systems, comment sections, forums, and games.
+contains list of over **5,000 offensive, inappropriate, or profane words** in JSON format. It is designed for developers who need to implement text moderation, filtering, or censorship in applications such as chat systems, comment sections, forums, and games.
 
 ---
 
